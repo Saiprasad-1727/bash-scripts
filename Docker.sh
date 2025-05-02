@@ -19,3 +19,4 @@ newgrp docker
 sudo systemctl status docker
 
 # Verifiy Docker installation: docker --version
+# verify Docker-compose version with : docker-compose --version
