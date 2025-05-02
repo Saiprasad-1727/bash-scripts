@@ -12,3 +12,8 @@ sudo apt-get update -y
 sudo apt-get install jenkins -y
 sudo systemctl start jenkins
 sudo systemctl status jenkins
+
+# Verifiy Jenkins installation: jenkins --version
+
+#     Open Port No. 8080 for VM and access Jenkins
+#     Setup Jenkins by following the necessary steps
